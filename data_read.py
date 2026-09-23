@@ -1,5 +1,7 @@
 import pandas as pd
 archivo_entrada = "operaciones_logistica.csv"
+print("Proyecto Expediting America Logistica - rama desarrollo")
+
 try:
     data = pd.read_csv(archivo_entrada)
     data.to_csv("operaciones.csv", index=False, encoding="utf-8-sig")
