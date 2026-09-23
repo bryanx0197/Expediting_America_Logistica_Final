@@ -1,0 +1,81 @@
+﻿ID,Tipo,Proveedor,Producto,Cantidad,Fecha_Programada,Fecha_Llegada,Estado,Dias_Retraso
+001,Despacho,Proveedor 04,Producto D,91,04/09/2026,04/09/2026,A tiempo,0
+002,Recepción,Proveedor 10,Producto G,36,04/09/2026,06/09/2026,Retrasado,2
+003,Recepción,Proveedor 09,Producto J,33,01/09/2026,01/09/2026,A tiempo,0
+004,Despacho,Proveedor 04,Producto H,321,07/09/2026,09/09/2026,Retrasado,2
+005,Recepción,Proveedor 03,Producto G,194,09/09/2026,12/09/2026,Retrasado,3
+006,Despacho,Proveedor 02,Producto B,214,09/09/2026,09/09/2026,A tiempo,0
+007,Despacho,Proveedor 10,Producto E,433,04/09/2026,04/09/2026,A tiempo,0
+008,Recepción,Proveedor 07,Producto B,302,02/09/2026,04/09/2026,Retrasado,2
+009,Despacho,Proveedor 10,Producto D,380,10/09/2026,13/09/2026,Retrasado,3
+010,Recepción,Proveedor 05,Producto B,457,03/09/2026,03/09/2026,A tiempo,0
+011,Despacho,Proveedor 05,Producto H,345,08/09/2026,12/09/2026,Retrasado,4
+012,Despacho,Proveedor 04,Producto E,379,12/09/2026,12/09/2026,A tiempo,0
+013,Recepción,Proveedor 09,Producto D,103,03/09/2026,05/09/2026,Retrasado,2
+014,Recepción,Proveedor 06,Producto A,137,15/09/2026,15/09/2026,A tiempo,0
+015,Despacho,Proveedor 05,Producto B,128,02/09/2026,05/09/2026,Retrasado,3
+016,Despacho,Proveedor 07,Producto H,93,11/09/2026,11/09/2026,A tiempo,0
+017,Despacho,Proveedor 10,Producto G,479,09/09/2026,09/09/2026,A tiempo,0
+018,Recepción,Proveedor 09,Producto H,66,13/09/2026,13/09/2026,A tiempo,0
+019,Recepción,Proveedor 03,Producto G,325,02/09/2026,06/09/2026,Retrasado,4
+020,Despacho,Proveedor 09,Producto E,303,03/09/2026,03/09/2026,A tiempo,0
+021,Recepción,Proveedor 09,Producto E,413,01/09/2026,03/09/2026,Retrasado,2
+022,Despacho,Proveedor 03,Producto H,21,11/09/2026,11/09/2026,A tiempo,0
+023,Recepción,Proveedor 09,Producto B,465,09/09/2026,14/09/2026,Retrasado,5
+024,Recepción,Proveedor 03,Producto F,410,10/09/2026,13/09/2026,Retrasado,3
+025,Recepción,Proveedor 10,Producto F,270,06/09/2026,07/09/2026,Retrasado,1
+026,Despacho,Proveedor 05,Producto D,49,01/09/2026,01/09/2026,A tiempo,0
+027,Recepción,Proveedor 02,Producto H,437,08/09/2026,12/09/2026,Retrasado,4
+028,Recepción,Proveedor 03,Producto H,301,03/09/2026,08/09/2026,Retrasado,5
+029,Despacho,Proveedor 04,Producto I,406,06/09/2026,06/09/2026,A tiempo,0
+030,Despacho,Proveedor 06,Producto H,480,07/09/2026,09/09/2026,Retrasado,2
+031,Recepción,Proveedor 04,Producto B,193,17/09/2026,18/09/2026,Retrasado,1
+032,Recepción,Proveedor 10,Producto D,23,01/09/2026,02/09/2026,Retrasado,1
+033,Recepción,Proveedor 04,Producto B,483,03/09/2026,05/09/2026,Retrasado,2
+034,Recepción,Proveedor 09,Producto D,162,02/09/2026,06/09/2026,Retrasado,4
+035,Recepción,Proveedor 10,Producto J,262,16/09/2026,16/09/2026,A tiempo,0
+036,Despacho,Proveedor 04,Producto B,69,08/09/2026,11/09/2026,Retrasado,3
+037,Despacho,Proveedor 08,Producto A,364,14/09/2026,14/09/2026,A tiempo,0
+038,Despacho,Proveedor 02,Producto D,118,04/09/2026,04/09/2026,A tiempo,0
+039,Recepción,Proveedor 07,Producto C,162,07/09/2026,08/09/2026,Retrasado,1
+040,Recepción,Proveedor 08,Producto I,70,15/09/2026,15/09/2026,A tiempo,0
+041,Recepción,Proveedor 02,Producto D,105,02/09/2026,04/09/2026,Retrasado,2
+042,Recepción,Proveedor 07,Producto A,104,14/09/2026,15/09/2026,Retrasado,1
+043,Despacho,Proveedor 05,Producto H,166,13/09/2026,13/09/2026,A tiempo,0
+044,Despacho,Proveedor 03,Producto D,171,14/09/2026,16/09/2026,Retrasado,2
+045,Recepción,Proveedor 06,Producto A,45,07/09/2026,12/09/2026,Retrasado,5
+046,Recepción,Proveedor 01,Producto I,61,16/09/2026,17/09/2026,Retrasado,1
+047,Recepción,Proveedor 04,Producto G,81,06/09/2026,06/09/2026,A tiempo,0
+048,Recepción,Proveedor 10,Producto B,234,08/09/2026,09/09/2026,Retrasado,1
+049,Despacho,Proveedor 04,Producto F,142,17/09/2026,17/09/2026,A tiempo,0
+050,Despacho,Proveedor 08,Producto F,495,09/09/2026,09/09/2026,A tiempo,0
+051,Recepción,Proveedor 02,Producto I,129,03/09/2026,03/09/2026,A tiempo,0
+052,Despacho,Proveedor 02,Producto D,209,17/09/2026,17/09/2026,A tiempo,0
+053,Despacho,Proveedor 10,Producto I,24,10/09/2026,10/09/2026,A tiempo,0
+054,Recepción,Proveedor 03,Producto E,79,10/09/2026,15/09/2026,Retrasado,5
+055,Recepción,Proveedor 05,Producto E,329,04/09/2026,06/09/2026,Retrasado,2
+056,Recepción,Proveedor 05,Producto I,270,07/09/2026,09/09/2026,Retrasado,2
+057,Recepción,Proveedor 02,Producto G,444,09/09/2026,13/09/2026,Retrasado,4
+058,Despacho,Proveedor 03,Producto E,102,09/09/2026,09/09/2026,A tiempo,0
+059,Despacho,Proveedor 09,Producto A,77,15/09/2026,16/09/2026,Retrasado,1
+060,Recepción,Proveedor 09,Producto A,447,03/09/2026,08/09/2026,Retrasado,5
+061,Recepción,Proveedor 07,Producto C,41,12/09/2026,13/09/2026,Retrasado,1
+062,Recepción,Proveedor 06,Producto D,369,10/09/2026,10/09/2026,A tiempo,0
+063,Despacho,Proveedor 09,Producto G,337,08/09/2026,10/09/2026,Retrasado,2
+064,Recepción,Proveedor 03,Producto C,471,05/09/2026,09/09/2026,Retrasado,4
+065,Despacho,Proveedor 07,Producto D,156,14/09/2026,14/09/2026,A tiempo,0
+066,Recepción,Proveedor 07,Producto A,459,06/09/2026,09/09/2026,Retrasado,3
+067,Despacho,Proveedor 06,Producto E,440,16/09/2026,16/09/2026,A tiempo,0
+068,Recepción,Proveedor 07,Producto F,162,08/09/2026,08/09/2026,A tiempo,0
+069,Despacho,Proveedor 06,Producto I,224,03/09/2026,08/09/2026,Retrasado,5
+070,Recepción,Proveedor 05,Producto C,317,11/09/2026,16/09/2026,Retrasado,5
+071,Despacho,Proveedor 06,Producto F,243,09/09/2026,09/09/2026,A tiempo,0
+072,Recepción,Proveedor 05,Producto A,382,17/09/2026,17/09/2026,A tiempo,0
+073,Recepción,Proveedor 06,Producto G,55,14/09/2026,14/09/2026,A tiempo,0
+074,Recepción,Proveedor 05,Producto I,178,11/09/2026,13/09/2026,Retrasado,2
+075,Despacho,Proveedor 09,Producto C,118,14/09/2026,14/09/2026,A tiempo,0
+076,Despacho,Proveedor 03,Producto J,311,14/09/2026,16/09/2026,Retrasado,2
+077,Recepción,Proveedor 05,Producto E,127,10/09/2026,10/09/2026,A tiempo,0
+078,Despacho,Proveedor 08,Producto H,246,14/09/2026,17/09/2026,Retrasado,3
+079,Recepción,Proveedor 02,Producto E,283,07/09/2026,08/09/2026,Retrasado,1
+080,Recepción,Proveedor 05,Producto D,432,11/09/2026,11/09/2026,A tiempo,0
